@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "BI4PCS MMDVM"
-luciversion = "git-22.173.71791-cf096f8"
+luciname    = "BI4PCS"
+luciversion = "MMDVM 4G"
