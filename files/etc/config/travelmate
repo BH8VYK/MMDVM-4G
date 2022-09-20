@@ -11,3 +11,11 @@ config travelmate 'global'
 	option trm_enabled '1'
 	option trm_radio 'radio0'
 
+config uplink
+	option enabled '1'
+	option device 'radio0'
+	option ssid '苏观-Hotel-2G'
+	option con_start_expiry '0'
+	option con_end_expiry '0'
+	option con_start '2022.09.20-08:58:46'
+
